@@ -16,8 +16,11 @@ body {
   color: aqua;
   position: absolute;
   background-color:blueviolet;
-  left: 47.65%;
+  left: 46.70%;
   top: 95%;
+  cursor: crosshair;
+  border: blueviolet;
+  padding: 10px 15px;
  
   
  
